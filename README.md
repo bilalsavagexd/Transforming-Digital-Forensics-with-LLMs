@@ -2,7 +2,7 @@
 
 ## Overview
 
-In the pursuit of justice and accountability in the digital age, the integration of Large Language Models (LLMs) with digital forensics holds immense promise. This three-hour tutorial provides a comprehensive exploration of the transformative potential of LLMs in automating digital investigations and uncovering hidden insights.
+In the pursuit of justice and accountability in the digital age, the integration of Large Language Models (LLMs) with digital forensics holds immense promise. This three-hour tutorial provides a comprehensive exploration of the transformative potential of LLMs in automating digital investigations and uncovering hidden insights
 
 Through a combination of real-world case studies, interactive exercises, and hands-on labs, participants will gain a deep understanding of how to harness LLMs for evidence analysis, entity identification, and knowledge graph reconstruction.
 
